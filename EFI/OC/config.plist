@@ -653,7 +653,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>1</integer>
+			<integer>5</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
@@ -681,7 +681,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1</string>
+				<string>keepsyms=1 -v</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
