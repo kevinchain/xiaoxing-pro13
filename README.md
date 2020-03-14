@@ -34,7 +34,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 ## 注意
 
 -
-    使用本EFI注意：必须解锁BIOS的“CFG Look”以及“DVMT”！！！
+    - 使用本EFI注意：解锁了BIOS的“CFG Look”“DVMT”的使用“config.plist”
+    
+    - 使用本EFI注意：未解锁BIOS的“CFG Look”“DVMT”的使用“config未解锁“CFG”“DVMT”使用.plist”
 
 -
     安装注意：小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定
