@@ -35,6 +35,8 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
    - 解锁了BIOS的“CFG Look”“DVMT”的请直接使用“config.plist”
    
    - 未解锁BIOS的“CFG Look”“DVMT”的请先将“config.plist”删除，再将“config未解锁“CFG”“DVMT”使用.plist”重命名为“config.plist”
+   
+   - 强烈建议解锁BIOS的“CFG Look”和“DVMT”以避免安装时卡进度条
 
 ## 安装注意
 
