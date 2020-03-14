@@ -36,13 +36,28 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 -
     使用本EFI注意：必须解锁BIOS的“CFG Look”以及“DVMT”！！！
 
-- 安装注意：小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定
+-
+    安装注意：小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定
 
+## 关闭触摸板快捷键
+- 
+    组合键: FN+F6
+
+## 唤醒方法
+ -
+    电源键
+
+## 已知问题
+ -
+    内置MIC不工作
+    
 ## 感谢
-       本EFI所使用的ACPI均来自@宪武大佬
+-
+    本EFI所使用的ACPI均来自@宪武大佬
 
 ## QQ群
-- 小新pro黑苹果    946132482
+- 
+    小新pro黑苹果    946132482
 
 ## 其它版本的EFI
-       https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh
+     https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh
