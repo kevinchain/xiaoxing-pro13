@@ -60,4 +60,5 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     小新pro黑苹果    946132482
 
 ## 其它版本的EFI
-     https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh
+ -
+    https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh
