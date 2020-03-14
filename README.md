@@ -53,6 +53,8 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 ## 已知问题
  -
     内置MIC不工作
+ -
+    耳机孔不支持线控
     
 ## 感谢
 -
