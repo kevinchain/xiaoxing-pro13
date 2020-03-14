@@ -17,14 +17,14 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 |网卡| 94360CS2|
 
 
-- ### BISO设置
+## BISO设置
 
     - `Fn+F2`进入`BIOS`,
     - 先查看 `Information`：`Secure Boot` 是否为 `Disabled`;
     - 如果 `Secure Boot` 是 `Enabled`，选择左边到 `Security`： 设置 `Secure Boot` 为 `Disabled`;
     - `Fn+F10` 保存设置
 
-   
+      
 - 镜像下载
   
     - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
