@@ -19,6 +19,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## BISO设置
 
+   - BIOS 版本: CLCN32WW
+
+
     - `Fn+F2`进入`BIOS`,
     - 先查看 `Information`：`Secure Boot` 是否为 `Disabled`;
     - 如果 `Secure Boot` 是 `Enabled`，选择左边到 `Security`： 设置 `Secure Boot` 为 `Disabled`;
