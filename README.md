@@ -28,7 +28,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     - `Fn+F10` 保存设置
 
       
-- 镜像下载
+## 镜像下载
   
     - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
 
