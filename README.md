@@ -74,4 +74,4 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## 其它版本的EFI
  -
-    https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh
+    XiaoXinPro-13-2019-hackintosh(https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh)
