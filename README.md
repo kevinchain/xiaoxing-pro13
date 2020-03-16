@@ -32,6 +32,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
   
     - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
 
+
   
 
 ## 使用本EFI注意
@@ -61,7 +62,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     
 ## 感谢
 -
-    本EFI所使用的ACPI均来自@宪武大佬
+    本EFI所使用的ACPI均来自 @宪武 大佬
 
 ## QQ群
 - 
