@@ -10,11 +10,11 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 |操作系统|macOS Catalina 10.15.x |
 |处理器|英特尔 酷睿 i7-10710U|
 |内存|16GB板载无法更换|
-|硬盘| 西数 SN750 1T |
+|硬盘|原装 三星981A 512GB 更换为 西数SN750 1TB |
 |显卡|Intel HD Graphics CFL CRB|（UHD620）|
 |显示器|13.3 英寸 IPS 2560x1600|
 |声卡| Realtek ALC257|
-|网卡| 94360CS2|
+|网卡| 原装Intel A201更换为 BCM94360CS2|
 
 
 ## BISO设置
