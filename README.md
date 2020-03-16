@@ -32,9 +32,6 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
   
     - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
 
-
-  
-
 ## 使用本EFI注意
    - 解锁了BIOS的“CFG Look”“DVMT”的请直接使用“config.plist”
    
