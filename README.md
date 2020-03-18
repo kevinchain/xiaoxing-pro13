@@ -65,6 +65,8 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 ## 感谢
 -
     本EFI所使用的ACPI均来自 @宪武 大佬
+    
+-   黑果小兵
 
 ## QQ群
 - 
