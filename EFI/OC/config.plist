@@ -64,7 +64,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RTC_Y-AWAC_N.aml</string>
+				<string>SSDT-RTC0.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
@@ -365,6 +365,8 @@
 				<data>BAClPg==</data>
 				<key>device-id</key>
 				<data>pT4AAA==</data>
+				<key>disable-external-gpu</key>
+				<data>AQAAAA==</data>
 				<key>dpcd-max-link-rate</key>
 				<data>CgAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
@@ -383,8 +385,16 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-stolenmem</key>
+				<data>AAAABA==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
+				<key>framebuffer-cursormem</key>
+				<data>AAAAAw==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
@@ -406,11 +416,11 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>VirtualSMC.kext</string>
+				<string>WhateverGreen.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VirtualSMC</string>
+				<string>Contents/MacOS/WhateverGreen</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -421,6 +431,16 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AppleALC</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>VirtualSMC.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VirtualSMC</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -461,16 +481,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCSuperIO</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>WhateverGreen.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/WhateverGreen</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -653,7 +663,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
@@ -681,7 +691,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 -v</string>
+				<string>keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -709,24 +719,24 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFDTSYHL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF0501004N0000CB</string>
 			<key>ROM</key>
-			<data>dYYBLW5L</data>
+			<data>mbXsWovv</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFDTSYHL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -737,9 +747,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF0501004N0000CB</string>
 			<key>ROM</key>
-			<data>dYYBLW5L</data>
+			<data>mbXsWovv</data>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -758,7 +768,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>BoardSerialNumber</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF0501004N0000CB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -768,7 +778,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFDTSYHL40Y</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -782,7 +792,7 @@
 			<key>PlatformFeature</key>
 			<integer>2</integer>
 			<key>ProcessorType</key>
-			<real>1797</real>
+			<integer>1797</integer>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
@@ -792,9 +802,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFDTSYHL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
