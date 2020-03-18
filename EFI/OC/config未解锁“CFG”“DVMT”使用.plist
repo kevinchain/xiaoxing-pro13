@@ -64,7 +64,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RTC_Y-AWAC_N.aml</string>
+				<string>SSDT-RTC0.aml</string>
 			</dict>
 			<dict>
 				<key>Enabled</key>
