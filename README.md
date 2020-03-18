@@ -78,4 +78,4 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## 更新日志  
   
-  - [Changelog](Changelog.md)
+  - [Changelog](https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh/blob/master/Changelog.md)
