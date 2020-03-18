@@ -719,24 +719,24 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFDTSYHL40Y</string>
+			<string>FVFY703QL40Y</string>
 			<key>SystemUUID</key>
-			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
+			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>FVF0501004N0000CB</string>
+			<string>FVF906902QX0000JA</string>
 			<key>ROM</key>
-			<data>mbXsWovv</data>
+			<data>dYYBLW5L</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFDTSYHL40Y</string>
+			<string>FVFY703QL40Y</string>
 			<key>SystemUUID</key>
-			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
+			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -747,9 +747,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>FVF0501004N0000CB</string>
+			<string>FVF906902QX0000JA</string>
 			<key>ROM</key>
-			<data>mbXsWovv</data>
+			<data>dYYBLW5L</data>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -768,7 +768,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>BoardSerialNumber</key>
-			<string>FVF0501004N0000CB</string>
+			<string>FVF906902QX0000JA</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -778,7 +778,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFDTSYHL40Y</string>
+			<string>FVFY703QL40Y</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -792,7 +792,7 @@
 			<key>PlatformFeature</key>
 			<integer>2</integer>
 			<key>ProcessorType</key>
-			<integer>1797</integer>
+			<real>1797</real>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
@@ -802,9 +802,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFDTSYHL40Y</string>
+			<string>FVFY703QL40Y</string>
 			<key>SystemUUID</key>
-			<string>90952E00-56D0-4E76-A7EF-415395376300</string>
+			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
