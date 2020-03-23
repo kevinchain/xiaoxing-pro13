@@ -345,7 +345,7 @@
 			<key>EnableWriteUnprotector</key>
 			<true/>
 			<key>SetupVirtualMap</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -365,6 +365,8 @@
 				<data>BAClPg==</data>
 				<key>device-id</key>
 				<data>pT4ABA==</data>
+				<key>device_type</key>
+				<data>AKwAAAAL7AAAAAA=</data>
 				<key>dpcd-max-link-rate</key>
 				<data>CgAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
@@ -383,10 +385,12 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<key>framebuffer-con1-pipe</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AAAAAw==</data>
+				<key>framebuffer-patch-enable</key>
+				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAABA==</data>
 				<key>framebuffer-unifiedmem</key>
@@ -395,6 +399,8 @@
 				<data>AAAAAw==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
+				<key>model</key>
+				<string>Intel Iris Plus Graphics 655</string>
 			</dict>
 		</dict>
 	</dict>
@@ -646,6 +652,34 @@
 				<string>19.0.0</string>
 				<key>Replace</key>
 				<data>ww==</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Base</key>
+				<string></string>
+				<key>Comment</key>
+				<string>DVMT for AppleIntelCFLGraphicsFramebuffer (Credits DalianSky) for 10.15.x</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>AAAAYEiJBQpgCQBMiyWbjA==</data>
+				<key>Identifier</key>
+				<string>AppleIntelCFLGraphicsFramebuffer</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>Replace</key>
+				<data>AAAAgEiJBQpgCQBMiyWbjA==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
