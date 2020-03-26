@@ -22,10 +22,10 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
    - BIOS 版本: CLCN32WW
 
 
-    - `Fn+F2`进入`BIOS`,
-    - 先查看 `Information`：`Secure Boot` 是否为 `Disabled`;
-    - 如果 `Secure Boot` 是 `Enabled`，选择左边到 `Security`： 设置 `Secure Boot` 为 `Disabled`;
-    - `Fn+F10` 保存设置
+   -  `Fn+F2`进入`BIOS`,
+   -  先查看 `Information`：`Secure Boot` 是否为 `Disabled`;
+   -  如果 `Secure Boot` 是 `Enabled`，选择左边到 `Security`： 设置 `Secure Boot` 为 `Disabled`;
+   -  `Fn+F10` 保存设置
 
       
 ## 镜像下载
@@ -38,11 +38,11 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 
 ## 使用本EFI注意
-   - 解锁了BIOS的“CFG Look”“DVMT”的请直接使用“config.plist”
+   - 解锁了BIOS的`CFG Look``DVMT`的请直接使用`config.plist`
    
-   - 未解锁BIOS的“CFG Look”“DVMT”的请先将“config.plist”删除，再将“config未解锁“CFG”“DVMT”使用.plist”重命名为“config.plist”
+   - 未解锁BIOS的`CFG Look``DVMT`的请先将`config.plist`删除，再将`config未解锁“CFG”“DVMT”使用.plist`重命名为`config.plist`
    
-   - 强烈建议解锁BIOS的“CFG Look”和“DVMT”以避免安装时卡进度条
+   - 强烈建议解锁BIOS的`CFG Look`和`DVMT`以避免安装时卡进度条
 
 ## 安装注意
 
@@ -64,7 +64,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     
 ## 感谢
 -
-    本EFI所使用的ACPI均来自 @宪武 大佬
+    本EFI所使用的`ACPI`均来自 @宪武 大佬
     
 -   黑果小兵
 
@@ -72,7 +72,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 - 
     [小新pro黑苹果 946132482](https://jq.qq.com/?_wv=1027&k=5XoGay4)
 -    
-    解锁BIOS“CFG Look”以及“DVMT”的工具和教程群文件中均有（解锁 DVMT 、 CFG Lock 的方法请参考@PS@Donald 的《修改DVMT Pre-Allocated数值方法》）
+    解锁BIOS`CFG Look`以及`DVMT`的工具和教程群文件中均有（解锁`DVMT`、`CFG Lock`的方法请参考@PS@Donald 的《修改DVMT Pre-Allocated数值方法》）
 
 ## 其它版本的EFI
  -
