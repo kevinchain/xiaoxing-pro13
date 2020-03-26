@@ -19,7 +19,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## BISO设置
 
-   - BIOS 版本:  `CLCN32WW`
+- ### BIOS 版本:  `CLCN32WW`
 
 
    -  `Fn+F2`进入`BIOS`,
