@@ -12,7 +12,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 |内存|16GB板载无法更换|
 |硬盘|原装 三星981A 512GB 更换为 西数SN750 1TB |
 |显卡|Intel HD Graphics CFL CRB|（UHD620）|
-|显示器|13.3 英寸 IPS 2560x1600|
+|显示器|13.3 英寸 IPS 2560x1600 华星光电|
 |声卡| Realtek ALC257|
 |网卡| 原装Intel A201更换为 BCM94360CS2|
 
