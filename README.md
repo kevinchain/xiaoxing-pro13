@@ -80,4 +80,4 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## 更新日志  
   
-  - [Changelog](https://github.com/Hush-vv/xiaoxing-pro13/blob/master/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E.md)
+  - [Changelog](https://github.com/Hush-vv/xiaoxing-pro13/blob/master/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)
