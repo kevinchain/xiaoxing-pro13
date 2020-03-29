@@ -835,7 +835,7 @@
 			<key>PlatformFeature</key>
 			<integer>2</integer>
 			<key>ProcessorType</key>
-			<real>1797</real>
+			<integer>1797</integer>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
