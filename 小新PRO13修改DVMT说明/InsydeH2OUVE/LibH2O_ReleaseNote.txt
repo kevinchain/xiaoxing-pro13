@@ -1,0 +1,32 @@
+Insyde Library H2O Release Note
+
+Version 1.0.0.5
+--------------------------------------------------------------------------------
+- Add multiple language APIs
+- Add sqlite 3.5.6 for DOS
+- Set I/O permission in the low level I/O APIs
+- Add a API to create single application 
+- Fix errors in replacing Microcode APIs
+- Fix errors in jpeg & bmp of cximage 
+
+Version 1.0.0.4
+--------------------------------------------------------------------------------
+- Fix saving boot type in image doesn't depend on boot device, because there is no boot device in image.
+- Update cximage
+
+Version 1.0.0.3
+--------------------------------------------------------------------------------
+- Update libp7z which used to replace lzma under extlib
+
+Version 1.0.0.2
+--------------------------------------------------------------------------------
+- Fix inner library issue
+
+Version 1.0.0.1
+--------------------------------------------------------------------------------
+- Fix string filtering error with empty string
+- Add release note file
+
+Version 1.0.0.0
+--------------------------------------------------------------------------------
+- Initialize library
