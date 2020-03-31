@@ -393,6 +393,8 @@
 				<data>AAAAAw==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
+				<key>model</key>
+				<string>Intel Iris Plus Graphics 655</string>
 			</dict>
 		</dict>
 	</dict>
@@ -697,7 +699,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>1</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
@@ -727,7 +729,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1</string>
+				<string>keepsyms=1 -v</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -835,7 +837,7 @@
 			<key>PlatformFeature</key>
 			<integer>2</integer>
 			<key>ProcessorType</key>
-			<integer>1797</integer>
+			<real>1797</real>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
