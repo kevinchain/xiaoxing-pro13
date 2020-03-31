@@ -74,6 +74,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     
 -   黑果小兵
 
+-
+    感谢群友QQ876310253提供的`解锁dvmt及cfglock.docx`教程
+
 ## QQ群
 - 
     [小新pro黑苹果 946132482](https://jq.qq.com/?_wv=1027&k=5XoGay4)
