@@ -47,6 +47,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 ## 安装注意
 
    - 小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定
+   
+   - **位置**：`Kernel\Quirks\AppleXcpmExtraMsrs` - `AppleXcpmExtraMsrs` 和BIOS设置多线程不一致时可能 `-v` 引导可能失败
+
 
 ## 关闭触摸板快捷键
 - 
