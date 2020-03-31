@@ -42,13 +42,13 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
    
    - 未解锁BIOS的`CFG Look` `DVMT`的请先将`config.plist`删除，再将`config未解锁“CFG”“DVMT”使用.plist`重命名为`config.plist`
    
-   - 强烈建议解锁BIOS的`CFG Look`和`DVMT`以避免安装时卡进度条
+   - 强烈建议解锁BIOS的`CFG Look`和`DVMT`以避免安装时卡进度条。
 
 ## 安装注意
 
-   - 小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定
+   - 小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定。
    
-   - **位置**：`Kernel\Quirks\AppleXcpmExtraMsrs` - `AppleXcpmExtraMsrs` 和BIOS设置多线程不一致时可能 `-v` 引导可能失败
+   - **位置**：`Kernel\Quirks\AppleXcpmExtraMsrs` - `AppleXcpmExtraMsrs` 和BIOS设置多线程设置不一致时**`-v` 引导可能失败** 。如有此问题将BIOS超线程关闭或`AppleXcpmExtraMsrs`= `true` 即可。
 
 
 ## 关闭触摸板快捷键
