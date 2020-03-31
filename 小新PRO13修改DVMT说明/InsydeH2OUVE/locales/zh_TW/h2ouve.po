@@ -1,0 +1,1110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: h2ouve\n"
+"POT-Creation-Date: 2015-02-06 15:51+0800\n"
+"PO-Revision-Date: 2015-02-06 15:54+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: 繁體中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/kanos/workspace/H2OUVE/src/common/gui\n"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:70
+msgid "Lang"
+msgstr "語言"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:73
+msgid "Remained Chars: "
+msgstr "剩餘字元："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:121
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:215
+msgid "Prompt"
+msgstr "字串"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:122
+msgid "Help"
+msgstr "協助"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:339
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:742
+msgid "Unable to display Setup string!"
+msgstr "無法顯示 Setup 字串！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:339
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:451
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:697
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:742
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:800
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1380
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1427
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1253
+msgid "ERROR"
+msgstr "錯誤！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:358
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:472
+msgid "Setup Utility"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:363
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:473
+msgid "Setup Browser"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:395
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:670
+msgid "Write Setup string failed!"
+msgstr "寫入 Setup 字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:402
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:677
+msgid "Write Browser string failed!"
+msgstr "寫入 Setup 界面字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:407
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:683
+msgid "Write image failed!"
+msgstr "寫入 Image 失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:434
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:784
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:395
+msgid "Save to..."
+msgstr "儲存至..."
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:451
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:800
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1253
+msgid "Failed to export file!"
+msgstr "無法匯出檔案！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:461
+msgid "String Update"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:687
+msgid "Save image successfully!"
+msgstr "Image 儲存成功！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:697
+msgid "No image loaded!"
+msgstr "沒有 Image 可讀取！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:707
+msgid "Dump default settings from image failed!"
+msgstr "讀取 Image 預設設定失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:729
+msgid "Read Setup string failed!"
+msgstr "讀取 Setup 字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:736
+msgid "Read Browser string failed!"
+msgstr "讀取 Setup 界面字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:748
+msgid "Copy Setup string failed!"
+msgstr "複製 Setup 字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:753
+msgid "Copy Browser string failed!"
+msgstr "讀取 Setup 界面字串失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:819
+msgid "Unsaved data will be lost. Are you sure to proceed?"
+msgstr "未儲存資料將會遺失，是否繼續執行？"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/ImgEditor.cpp:819
+msgid "Reconfirm"
+msgstr "再次確認"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.cpp:60
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.cpp:102
+msgid "Location (X,Y): ("
+msgstr "座標 (X,Y)：("
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.cpp:114
+msgid "Foreground: ("
+msgstr "前景色：("
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.cpp:130
+msgid "Background: ("
+msgstr "背景色：("
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.cpp:261
+msgid "Text should not be empty."
+msgstr "請輸入字串"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:80
+msgid "No Operation"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:81
+msgid "Front Page"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:82
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:503
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:515
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:899
+msgid "Setup"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:83
+msgid "Device Manager"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:84
+msgid "Boot Manager"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:85
+msgid "Boot Maintenance"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:86
+msgid "Secure Boot"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:87
+msgid "Mebx"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:88
+msgid "Remote Asstist"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:97
+msgid "Text"
+msgstr "文字"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:98
+msgid "Graphic"
+msgstr "圖像"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:103
+msgid "BIOS version"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:104
+msgid "BIOS Release Data"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:105
+msgid "CPU type"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:106
+msgid "Memory Bus Speed"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:107
+msgid "CPUID"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:180
+msgid "Load Hotkey file"
+msgstr "讀取熱鍵檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:183
+msgid "&Load"
+msgstr "讀取 (&L)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:192
+msgid "Information"
+msgstr "資訊"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:194
+msgid "ConfigId:"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:204
+msgid "Name:"
+msgstr "名稱："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:235
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:263
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:279
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:316
+msgid "No."
+msgstr "編號"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:238
+msgid "Key"
+msgstr "按鍵"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:241
+msgid "Operation"
+msgstr "操作方式"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:244
+msgid "Text Before (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:247
+msgid "Text After (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:250
+msgid "Graphic Before (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:253
+msgid "Graphic After (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:256
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:900
+msgid "Hotkey"
+msgstr "熱鍵"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:266
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:282
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:320
+msgid "Type"
+msgstr "類型"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:269
+msgid "String (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:272
+msgid "Information String"
+msgstr "訊息文字"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:285
+msgid "Text (X,Y)"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:288
+msgid "System Information"
+msgstr "系統資訊"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:290
+msgid "Status"
+msgstr "狀態"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:336
+msgid "Add"
+msgstr "新增"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:340
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:367
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:368
+msgid "Delete"
+msgstr "刪除"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:733
+msgid "Something wrong to parse items!"
+msgstr "解析內容時發生錯誤！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:759
+msgid "Hotkey can't be empty!"
+msgstr "請先設定熱鍵！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:784
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:795
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:805
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:815
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:845
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:872
+msgid "Text format error!"
+msgstr "文字格式錯誤！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:1113
+msgid "Select Hotkey file"
+msgstr "選擇熱鍵檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:1113
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:817
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1072
+msgid "All files(*.*)|*"
+msgstr "所有檔案 (*.)|*"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:1133
+msgid "Parsing config file failed!"
+msgstr "解析設定檔失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:1183
+msgid "Duplicate \"Operation\" in Hotkey!"
+msgstr "複製\"操作方式\"！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.cpp:1205
+msgid "Duplicate \"Type\" in System Information!"
+msgstr "複製\"類型\"至系統資訊"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:173
+msgid "Compare Results"
+msgstr "比較結果"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:241
+msgid "Runtime Variables"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:243
+msgid "Fd Variables"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:357
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:631
+msgid "Dump Data"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:365
+msgid "Close"
+msgstr "關閉"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:366
+msgid "Save as"
+msgstr "另存新檔"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:597
+msgid "Select file to load"
+msgstr "選擇將要儲存的檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:600
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:653
+msgid ""
+"Text files (*.txt)|*.txt|XML files (*.xml)|*.xml|UVE files (*.uve)|*.uve"
+msgstr "文字檔案 (*.txt)|*.txt|XML files (*.xml)|*.xml|UVE files (*.uve)|*.uve"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:645
+msgid "No items selected!"
+msgstr "請先選擇項目！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:650
+msgid "Save Variables to..."
+msgstr "儲存 Variables 至..."
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:670
+msgid "Unknown file format!"
+msgstr "檔案格式無法辨識！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1380
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1427
+msgid "Variable list is not loaded!"
+msgstr "無法讀取 Variable 清單"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1386
+msgid "Open file failed!"
+msgstr "開啟檔案失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1432
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:837
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:885
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:579
+msgid "Select image to load"
+msgstr "選擇 Image 檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1479
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:422
+msgid "Import"
+msgstr "輸入"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1480
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:423
+msgid "Export"
+msgstr "輸出"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1484
+msgid "All \tAlt+"
+msgstr "全部 \tAlt+"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1484
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1498
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:634
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:646
+msgid "All"
+msgstr "全部"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1485
+msgid "None \tAlt+"
+msgstr "無 \tAlt+"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1485
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:635
+msgid "None"
+msgstr "無"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1488
+msgid "Select \tAlt-"
+msgstr "選擇 \tAlt-"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1491
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:640
+msgid "Name \tAlt+"
+msgstr "名稱 \tAlt+"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1491
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:640
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:318
+msgid "Name"
+msgstr "名稱"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1492
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:641
+msgid "GUID \tAlt+"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1492
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:641
+msgid "GUID"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1495
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:643
+msgid "Show By"
+msgstr "顯示"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1499
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:647
+msgid "Valid Only"
+msgstr "有效的"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1502
+msgid "List items"
+msgstr "列出項目"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1505
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:652
+msgid "1-byte integer \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1505
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:652
+msgid "1-byte integer"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1506
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:653
+msgid "2-byte integer \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1506
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:653
+msgid "2-byte integer"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1507
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:654
+msgid "4-byte integer \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1507
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:654
+msgid "4-byte integer"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1509
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:656
+msgid "8-byte integer \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1509
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:656
+msgid "8-byte integer"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/VarEditor.cpp:1527
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:660
+msgid "Data Format \t"
+msgstr "資料格式 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:64
+msgid "H2OUVE"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:65
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:474
+msgid "Runtime"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:172
+msgid "Need root privilege."
+msgstr "執行需要管理員權限"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:178
+msgid "Another H2OUVE is running."
+msgstr "H2OUVE 正在執行中"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:247
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:876
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:892
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:904
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:908
+msgid "Read BIOS data failed!"
+msgstr "讀取 BIOS 資料失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:414
+msgid "Load runtime\t"
+msgstr "讀取 Runtime \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:414
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:474
+msgid "Load runtime BIOS"
+msgstr "讀取 ROM"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:415
+msgid "Load image\t"
+msgstr "讀取 Image"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:415
+msgid "Load BIOS image file"
+msgstr "讀取 BIOS Image"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:418
+msgid "Save\t"
+msgstr "儲存 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:418
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:472
+msgid "Save changes"
+msgstr "儲存所有變更"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:420
+msgid "Save as\t"
+msgstr "另存新檔"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:420
+msgid "Save as new file"
+msgstr "另存新檔"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:422
+msgid "Import\t"
+msgstr "輸入 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:423
+msgid "Export\t"
+msgstr "輸出 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:425
+msgid "Exit\t"
+msgstr "離開 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:425
+msgid "Quit application"
+msgstr "離開此程式"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:428
+msgid "Setup Editor\t"
+msgstr "Setup 編輯器\t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:428
+msgid "Setup Editor"
+msgstr "Setup 編輯器"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:429
+msgid "String Editor\t"
+msgstr "字串編輯器\t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:429
+msgid "String Editor"
+msgstr "字串編輯器"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:430
+msgid "Variable Editor\t"
+msgstr "Variable 編輯器 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:430
+msgid "Variable Editor"
+msgstr "Variable 編輯器"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:432
+msgid "Multi-Config Editor\t"
+msgstr "Multi-Config 編輯器\t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:432
+msgid "Multi-Config Editor"
+msgstr "Multi-Config 編輯器"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:436
+msgid "Language\t"
+msgstr "語言 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:436
+msgid "Change language"
+msgstr "更換語言"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:437
+msgid "About\t"
+msgstr "關於 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:437
+msgid "About this application"
+msgstr "關於此程式"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:444
+msgid "&File"
+msgstr "檔案 (&F)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:445
+msgid "&Switch"
+msgstr "功能切換 (&S)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:446
+msgid "&Help"
+msgstr "求助 (&H)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:472
+msgid "Save"
+msgstr "儲存"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:475
+msgid "Image"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:475
+msgid "Load BIOS image"
+msgstr "讀取 Image"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:476
+msgid "Refresh all"
+msgstr "全部重新整理"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:477
+msgid "8Bits"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:478
+msgid "16Bits"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:479
+msgid "32Bits"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:481
+msgid "64Bits"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:504
+msgid "String"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:505
+msgid "Variable"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:507
+msgid "Multi-Config"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:631
+msgid "Dump Data \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:634
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:646
+msgid "All \t"
+msgstr "全部 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:635
+msgid "None \t"
+msgstr "無 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:637
+msgid "Select \t"
+msgstr "選擇 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:647
+msgid "Valid Only \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:649
+msgid "List items \t"
+msgstr "列出項目 \t"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:663
+msgid "with FD \t"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:663
+msgid "Compare with FD"
+msgstr "比較 FD 檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:665
+msgid "&Variable"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:666
+msgid "&Compare"
+msgstr "比較 (&C)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:712
+msgid "Dump default BIOS settings failed!"
+msgstr "讀取 BIOS 預設設定失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:724
+msgid "Dump current BIOS settings failed!"
+msgstr "寫入 BIOS 目前設定失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:730
+msgid "Setup utility will be displayed by external web browser, please wait..."
+msgstr "Setup 設定會由外部瀏覽器顯示，請等待..."
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:783
+msgid "Are you sure to exit from this program?"
+msgstr "是否要關閉此程式？"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:783
+msgid "Question"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1223
+msgid "Select language:"
+msgstr "選擇語言："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1223
+msgid "Language"
+msgstr "語言"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1228
+msgid "Some panels should be closed and then open to take effect."
+msgstr "已開啟的視窗需要重新啟動才能生效"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.cpp:1237
+msgid "Save Setup settings to CSV file"
+msgstr "儲存 Setup 設定至 CSV 檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/websocketserver.cpp:23
+msgid "Can't create thread!"
+msgstr "無法建立執行緒！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/websocketserver.cpp:36
+msgid "Can't start thread!"
+msgstr "啟動執行緒失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:322
+msgid "Config ID"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:324
+msgid "Valid"
+msgstr "有效"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:326
+msgid "Mode"
+msgstr "模式"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:328
+msgid "Post"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:330
+msgid "Active"
+msgstr "啟動"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:362
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:363
+msgid "Edit"
+msgstr "編輯"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:386
+msgid "Total number of Config Data:"
+msgstr "設定項目的總數為："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:390
+msgid "Load default setup from:"
+msgstr "BIOS 預設值讀取來源為："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:394
+msgid "Remaining memory size (bytes):"
+msgstr "剩餘記憶體空間 (bytes)："
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:500
+msgid "Multi-Config region data is corrupted!"
+msgstr "Multi-Config 區塊已損毀！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:516
+msgid "HotKey"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:517
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:902
+msgid "Logo"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:518
+msgid "SMBios"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:520
+msgid "Unknown"
+msgstr "不明"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:557
+msgid "The Config data is corrupt!"
+msgstr "Config 資料已損毀！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:559
+msgid "The Size of config data is different!"
+msgstr "Config 資料的大小不同！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:561
+msgid "The ConfigID is full!!"
+msgstr "config 資料已滿！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:563
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:720
+msgid "The config data is \"Read Only\"!!"
+msgstr "Config 資料是 \"唯讀\"\"！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:565
+msgid "No settings can be saved!!"
+msgstr "設定沒有變更！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:567
+msgid "Unknown error!!"
+msgstr "不明錯誤！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:648
+msgid "Modify name failed.\n"
+msgstr "修改名稱失敗\n"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:656
+msgid "This item isn't capable of setting POST."
+msgstr "此項目不能設定 POST"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:668
+msgid "This is Read-Only!"
+msgstr "唯讀項目！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:697
+msgid "Config ID value is invalid!"
+msgstr "Config ID 不正確"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:706
+msgid "Unknown operation!"
+msgstr "不明的操作！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:710
+msgid "The setting has been set!"
+msgstr "設定已更改！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:718
+msgid "The setting has been cleared!"
+msgstr "設定已清除！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:741
+msgid "&Add"
+msgstr "新增 (&A)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:743
+msgid "D&ump"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:744
+msgid "&Edit"
+msgstr "編輯(&E)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:745
+msgid "&Delete"
+msgstr "刪除(&D)"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:814
+#, c-format
+msgid "Select file to save %s"
+msgstr "選擇檔案以儲存 %s"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:829
+#, c-format
+msgid "Open %s failed!"
+msgstr "開啟 %s 失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:837
+msgid "This feature is unsupported!"
+msgstr "不支援所選功能！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:839
+msgid "Read physical memory failed!"
+msgstr "讀取實體記憶體發生錯誤！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:842
+msgid "Fail to generate file!"
+msgstr "產生檔案失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:901
+msgid "Smbios"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:908
+msgid "Duplicate current selection"
+msgstr "複製所選項目"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:911
+msgid "Choose type:"
+msgstr "選擇類型"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:911
+msgid "Multi-Config Type"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:943
+msgid "Fail to save config data!"
+msgstr "儲存 config 資料失敗！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:989
+#, c-format
+msgid "The Config ID %Xh data doesn't be fuond!"
+msgstr "找不到 Config ID %Xh！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:991
+msgid "The Config data is \"Read Only\"!!"
+msgstr "Config 資料是\"唯讀\"內容"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1036
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1102
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1185
+msgid "Fail to parse data\n"
+msgstr "解析資料失敗\n"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1039
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1216
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1220
+msgid "It's not implemented!"
+msgstr "尚未實作！"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1057
+msgid "From file"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1059
+msgid "From runtime"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1061
+msgid "From image file"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1063
+msgid "Choose source:"
+msgstr "選擇來源"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1063
+msgid "Setup source"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1072
+#, c-format
+msgid "Select %s file"
+msgstr "選擇 %s 檔案"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1121
+#: /home/kanos/workspace/H2OUVE/src/common/gui/McEditor.cpp:1125
+msgid "Not implemented!"
+msgstr "尚未實作"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.h:63
+#, c-format
+msgid "Couldn't find/load the h2ouve catalog for locale '%s'."
+msgstr "找不到 h2ouve 類別的 '%s' 語言包"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.h:64
+msgid "unknown"
+msgstr "未知"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.h:68
+msgid "selected language is wrong"
+msgstr "選擇語言錯誤"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/gui_main.h:73
+msgid ""
+"The selected language is not supported by your system.\n"
+"Try installing support for this language."
+msgstr ""
+"系統不支援所選語言\n"
+"請安裝相關語言包"
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyDialog.h:88
+msgid "Hotkey Dialog"
+msgstr ""
+
+#: /home/kanos/workspace/H2OUVE/src/common/gui/HotkeyInputDialog.h:64
+msgid "Hotkey Input Settings"
+msgstr "設定熱鍵"
+
+#~ msgid "Save settings of current function"
+#~ msgstr "儲存目前功能的改動"
+
+#, fuzzy
+#~ msgid "Save all\t"
+#~ msgstr "全部儲存 \t"
+
+#~ msgid "Save all settings"
+#~ msgstr "儲存所有變更"
+
+#~ msgid "Save changes of current feature"
+#~ msgstr "儲存目前功能的變更"
+
+#~ msgid "Save All"
+#~ msgstr "全部儲存"
+
+#~ msgid "E&xport To Csv \t"
+#~ msgstr "輸出 CSV (&X) \t"
+
+#~ msgid "Export to csv"
+#~ msgstr "輸出 CSV"
+
+#~ msgid ""
+#~ "Multi-Config region doesn't be not found!\n"
+#~ "The Multi-Config feature is unsupported!"
+#~ msgstr ""
+#~ "未找到 Multi-Config 區塊！\n"
+#~ "不支援 Multi-Config 功能！"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Save As\t"
+#~ msgstr "另存新檔 \t"
+
+#~ msgid "Save All settings"
+#~ msgstr "儲存所有變更"
+
+#~ msgid "SaveAs"
+#~ msgstr "另存新檔"
+
+#~ msgid "Refresh"
+#~ msgstr "重新整理"
+
+#~ msgid "SaveToImage"
+#~ msgstr "儲存至 Image"
+
+#~ msgid "SaveToRom"
+#~ msgstr "儲存至 Rom"
+
+#~ msgid "Open\t"
+#~ msgstr "開啟 \t"
+
+#~ msgid "Open"
+#~ msgstr "開啟"
+
+#~ msgid "U&pdate Default\t"
+#~ msgstr "編輯預設值 (&U) \t"
+
+#~ msgid "Update default"
+#~ msgstr "編輯預設值"
+
+#~ msgid "U&pdate String \t"
+#~ msgstr "編輯字串 (&P) \t"
+
+#~ msgid "Update string"
+#~ msgstr "編輯字串"
+
+#~ msgid "Load from ROM\t"
+#~ msgstr "讀取 ROM \t"
+
+#~ msgid "Save \t"
+#~ msgstr "儲存 \t"
+
+#~ msgid "Save As \t"
+#~ msgstr "另存新檔 \t"
+
+#~ msgid "The config data that will be clear is \"Read Only\"!!"
+#~ msgstr "選擇要刪除的項目是 \"唯讀\""
