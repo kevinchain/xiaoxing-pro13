@@ -747,6 +747,8 @@
 			<dict>
 				<key>UIScale</key>
 				<data>Ag==</data>
+				<key>DefaultBackgroundColor</key>
+				<data>AAAAAA==</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
@@ -760,11 +762,18 @@
 		</dict>
 		<key>Block</key>
 		<dict>
+			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
+			<array>
+				<string>UIScale</string>
+				<string>DefaultBackgroundColor</string>
+			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
 				<string>boot-args</string>
 			</array>
 		</dict>
+		<key>LegacySchema</key>
+		<dict/>
 		<key>WriteFlash</key>
 		<true/>
 	</dict>
@@ -852,7 +861,7 @@
 			<key>PlatformFeature</key>
 			<integer>2</integer>
 			<key>ProcessorType</key>
-			<integer>1797</integer>
+			<real>1797</real>
 			<key>SystemFamily</key>
 			<string>MacBook Pro</string>
 			<key>SystemManufacturer</key>
