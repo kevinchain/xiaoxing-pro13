@@ -82,9 +82,11 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## QQ群
 - 
-    [小新pro黑苹果 946132482](https://jq.qq.com/?_wv=1027&k=5XoGay4)
--    
-    解锁BIOS`CFG Look`以及`DVMT`的工具和教程群文件中均有（解锁`DVMT`、`CFG Lock`的方法请参考@PS@Donald 的《修改DVMT Pre-Allocated数值方法》）
+    [小新pro黑苹果 946132482](https://jq.qq.com/?_wv=1027&k=5XoGay4)（已满）
+    
+-   
+     [点击链接加入群聊【小新pro13insyde bios研究交流 635160015](https://jq.qq.com/?_wv=1027&k=5R7Zcci)
+        
 
 ## 其它版本的EFI
  -
