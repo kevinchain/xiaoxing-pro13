@@ -74,6 +74,8 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
     
 -   黑果小兵
 
+-   感谢PS@Donald提供的解锁`DVMT` `CFG lock`工具
+
 -
     感谢群友QQ876310253提供的`解锁dvmt及cfglock.docx`教程
     
