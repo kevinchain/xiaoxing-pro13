@@ -76,6 +76,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 -
     感谢群友QQ876310253提供的`解锁dvmt及cfglock.docx`教程
+    
+-    
+    @Bat.bat [自动化 OpenCore 编译，每 8 小时刷新一次](https://github.com/williambj1/OpenCore-Factory)
 
 ## QQ群
 - 
