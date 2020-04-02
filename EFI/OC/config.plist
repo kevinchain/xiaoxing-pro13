@@ -699,7 +699,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>3</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Security</key>
 		<dict>
@@ -729,7 +729,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 -v</string>
+				<string>keepsyms=1</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -764,24 +764,24 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFCWEZAL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>53CAA7AD-4E2D-4BE0-84D0-B481F2E55BBA</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF025600GU0000FB</string>
 			<key>ROM</key>
-			<data>dYYBLW5L</data>
+			<data>KW/pJnoq</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,4</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFCWEZAL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>53CAA7AD-4E2D-4BE0-84D0-B481F2E55BBA</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -792,9 +792,9 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF025600GU0000FB</string>
 			<key>ROM</key>
-			<data>dYYBLW5L</data>
+			<data>KW/pJnoq</data>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -813,7 +813,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>BoardSerialNumber</key>
-			<string>FVF906902QX0000JA</string>
+			<string>FVF025600GU0000FB</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -823,7 +823,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFCWEZAL40Y</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -847,9 +847,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-53FDB3D8DB8CA971</string>
 			<key>SystemSerialNumber</key>
-			<string>FVFY703QL40Y</string>
+			<string>FVFCWEZAL40Y</string>
 			<key>SystemUUID</key>
-			<string>B4A6BFE8-CCAF-467D-BB3A-A13DF4E67E83</string>
+			<string>53CAA7AD-4E2D-4BE0-84D0-B481F2E55BBA</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
