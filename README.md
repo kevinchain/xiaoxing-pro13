@@ -38,6 +38,9 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 
 ## 使用本EFI注意
+
+   - 强烈建议不要使用`OpenCore Configurator`来修改`config.plist` 推荐使用`ProperTree`
+
    - 解锁了BIOS的`CFG Look` `DVMT`的请直接使用`config.plist`
    
    - 未解锁BIOS的`CFG Look` `DVMT`的请先将`config.plist`删除，再将`config未解锁“CFG”“DVMT”使用.plist`重命名为`config.plist`
