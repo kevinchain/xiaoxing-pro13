@@ -339,7 +339,7 @@
 			<key>EnableWriteUnprotector</key>
 			<true/>
 			<key>SetupVirtualMap</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
