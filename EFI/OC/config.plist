@@ -355,12 +355,16 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
+				<key>#AAPL,ig-platform-id</key>
 				<data>BAClPg==</data>
-				<key>device-id</key>
+				<key>#device-id</key>
 				<data>pT4ABA==</data>
-				<key>device_type</key>
-				<data>AKwAAAAL7AAAAAA=</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>AACbPg==</data>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>AAPL00,override-no-connect</key>
+				<data>AP///////wAOb20HAAAAABQdAQSlHRJ44u6Vo1RMmSYPUFQAAAABAQEBAQEBAQEBAQEBAQEB7GgAoKBALmAwIDYAHrMQAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBDU09UIFQzCiAgICAgAAAA/gBNTkQzMDdEQTEtMgogAEg=</data>
 				<key>dpcd-max-link-rate</key>
 				<data>CgAAAA==</data>
 				<key>enable-dpcd-max-link-rate-fix</key>
@@ -379,8 +383,6 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-con1-pipe</key>
-				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
 				<data>AAAAAw==</data>
 				<key>framebuffer-patch-enable</key>
@@ -393,8 +395,8 @@
 				<data>AAAAAw==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
-				<key>model</key>
-				<string>Intel Iris Plus Graphics 655</string>
+				<key>#model</key>
+				<string>Intel UHD Graphics 630 (Mobile)</string>
 			</dict>
 		</dict>
 	</dict>
@@ -617,7 +619,7 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data>7AYIAAAAAAAAAAAAAAAAAA==</data>
+			<data>6wYIAAAAAAAAAAAAAAAAAA==</data>
 			<key>Cpuid1Mask</key>
 			<data>/////wAAAAAAAAAAAAAAAA==</data>
 		</dict>
@@ -646,34 +648,6 @@
 				<string>19.0.0</string>
 				<key>Replace</key>
 				<data>ww==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Base</key>
-				<string></string>
-				<key>Comment</key>
-				<string>DVMT for AppleIntelCFLGraphicsFramebuffer (Credits DalianSky) for 10.15.x</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>AAAAYEiJBQpgCQBMiyWbjA==</data>
-				<key>Identifier</key>
-				<string>AppleIntelCFLGraphicsFramebuffer</string>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>Replace</key>
-				<data>AAAAgEiJBQpgCQBMiyWbjA==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
