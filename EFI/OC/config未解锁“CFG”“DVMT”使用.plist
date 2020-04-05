@@ -359,6 +359,8 @@
 				<data>BAClPg==</data>
 				<key>device-id</key>
 				<data>pT4ABA==</data>
+				<key>AAPL00,override-no-connect</key>
+				<data>AP///////wAOb20HAAAAABQdAQSlHRJ44u6Vo1RMmSYPUFQAAAABAQEBAQEBAQEBAQEBAQEB7GgAoKBALmAwIDYAHrMQAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBDU09UIFQzCiAgICAgAAAA/gBNTkQzMDdEQTEtMgogAEg=</data>				
 				<key>dpcd-max-link-rate</key>
 				<data>CgAAAA==</data>
 				<key>disable-external-gpu</key>
