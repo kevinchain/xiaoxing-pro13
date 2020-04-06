@@ -355,14 +355,10 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>#AAPL,ig-platform-id</key>
-				<data>BAClPg==</data>
-				<key>#device-id</key>
-				<data>pT4ABA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>BAClPg==</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>pT4ABA==</data>
 				<key>AAPL00,override-no-connect</key>
 				<data>AP///////wAOb20HAAAAABQdAQSlHRJ44u6Vo1RMmSYPUFQAAAABAQEBAQEBAQEBAQEBAQEB7GgAoKBALmAwIDYAHrMQAAAaAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gBDU09UIFQzCiAgICAgAAAA/gBNTkQzMDdEQTEtMgogAEg=</data>
 				<key>dpcd-max-link-rate</key>
@@ -383,10 +379,10 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-fbmem</key>
-				<data>AAAAAw==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-fbmem</key>
+				<data>AAAAAw==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAABA==</data>
 				<key>framebuffer-unifiedmem</key>
@@ -395,8 +391,8 @@
 				<data>AAAAAw==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
-				<key>#model</key>
-				<string>Intel UHD Graphics 630 (Mobile)</string>
+				<key>model</key>
+				<string>Intel Iris Plus Graphics 655</string>
 			</dict>
 		</dict>
 	</dict>
@@ -619,7 +615,7 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data>6wYIAAAAAAAAAAAAAAAAAA==</data>
+			<data>7AYIAAAAAAAAAAAAAAAAAA==</data>
 			<key>Cpuid1Mask</key>
 			<data>/////wAAAAAAAAAAAAAAAA==</data>
 		</dict>
@@ -670,6 +666,8 @@
 			<string>Builtin</string>
 			<key>HideSelf</key>
 			<true/>
+			<key>ConsoleAttributes</key>
+			<integer>0</integer>
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
