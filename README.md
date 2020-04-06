@@ -34,7 +34,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## EFI下载
 
-   - [Releases](https://github.com/Hush-vv/xiaoxing-pro13/archive/master.zip)
+   - [Releases](https://github.com/Hush-vv/xiaoxing-pro13/releases/download/v1.0.0/EFI-OpenCore0.5.7releases.zip)
 
 
 ## 使用本EFI注意
