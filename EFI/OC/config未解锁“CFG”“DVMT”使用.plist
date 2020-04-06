@@ -724,6 +724,8 @@
 			<string>Builtin</string>
 			<key>HideSelf</key>
 			<true/>
+			<key>ConsoleAttributes</key>
+			<integer>0</integer>			
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
