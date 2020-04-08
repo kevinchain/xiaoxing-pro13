@@ -798,7 +798,7 @@
 				<key>BundlePath</key>
 				<string>NVMeFix.kext</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/NVMeFix</string>
 				<key>PlistPath</key>
