@@ -64,7 +64,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## 安装注意
 
- - ### 如果没有解锁BIOS`CFG LOCK` `DVMT`导致安装卡在请尝试解锁
+ - ### 如果没有解锁BIOS`CFG LOCK` `DVMT`导致安装卡住请尝试解锁
  
  - ### 安装系统时请在BIOS中禁用无线网卡，安装成功后在打开。避免应网卡问题导致安装失败
     - 一些网卡需要屏蔽针脚，方法请自行百度
