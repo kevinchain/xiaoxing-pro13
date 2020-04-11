@@ -16,6 +16,21 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 |声卡| Realtek ALC257|
 |网卡| 原装Intel A201更换为 BCM94360CS2|
 
+      
+## 镜像下载
+  
+   - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
+
+## EFI下载
+
+   - [Releases](https://github.com/Hush-vv/xiaoxing-pro13/releases/download/v1.0.0/EFI-OpenCore0.5.7releases.zip)
+
+# 使用说明
+
+## 注意
+
+- 强烈建议不要使用`OpenCore Configurator`来修改`config.plist` 推荐使用`ProperTree`   
+- 小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定。
 
 ## BISO设置
 
@@ -27,31 +42,37 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
    -  如果 `Secure Boot` 是 `Enabled`，选择左边到 `Security`： 设置 `Secure Boot` 为 `Disabled`;
    -  `Fn+F10` 保存设置
 
-      
-## 镜像下载
+
+## 配置config【重要】
+
+- ### 已修改BIOS`DVMT`机器可删除以下内容
+
+  - `Kernel` \ `Patch` \ `iten0`
+  - `Kernel` \ `Patch` \ `iten1`
+  - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-fbmem` = `00009000`
+  - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-stolenmem` = `00003001`
   
-   - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
+  - ### 已解锁BIOS`CFG LOOK`机器可删除以下内容
+  
+    - `Kernel` \ `Quirks` \ `AppleCpuPmCfgLock`=`NO`
+    - `Kernel` \ `Quirks` \ `AppleXcpmCfgLock`=`YES`
+    - `Kernel` \ `Quirks` \ `AppleXcpmForceBoost`=`NO`
+    - `UEFI` \ `Quirks` \ `IgnoreInvalidFlexRatio`=`YES`
+    
+  - ### 强烈建议解锁BIOS`CFG LOOK` `DVMT`以避免安装时卡住。解锁方法请参考附件`小新PRO13修改DVMT说明`
 
-## EFI下载
-
-   - [Releases](https://github.com/Hush-vv/xiaoxing-pro13/releases/download/v1.0.0/EFI-OpenCore0.5.7releases.zip)
-
-
-## 使用本EFI注意
-
-   - 强烈建议不要使用`OpenCore Configurator`来修改`config.plist` 推荐使用`ProperTree`
-
-   - 解锁了BIOS的`CFG Look` `DVMT`的请直接使用`config.plist`
-   
-   - 未解锁BIOS的`CFG Look` `DVMT`的请先将`config.plist`删除，再将`config未解锁“CFG”“DVMT”使用.plist`重命名为`config.plist`
-   
-   - 强烈建议解锁BIOS的`CFG Look`和`DVMT`以避免安装时卡进度条。
 
 ## 安装注意
 
-   - 小新由于安装过程中触摸板可能无法驱动，使用U盘安装macOS会占用仅仅一个USB接口,建议安装之前先买个usb拓展,用于插入鼠标,来进行安装步骤选项设定。
-   
-   - **位置**：`Kernel\Quirks\AppleXcpmExtraMsrs` - `AppleXcpmExtraMsrs` 和BIOS设置多线程设置不一致时`-v` 引导可能失败。如有此问题请将BIOS超线程关闭或`AppleXcpmExtraMsrs`= `true` 即可。
+ - ### 如果没有解锁BIOS`CFG LOOK` `DVMT`导致安装卡在请尝试解锁
+ 
+ - ### 安装系统时请在BIOS中禁用无线网卡，安装成功后在打开。避免应网卡问题导致安装失败
+    - 一些网卡需要屏蔽针脚，方法请自行百度
+
+ - ### `CPU多线程(BIOS Hyper)`的`开` 与`关` 和 `config`的`AppleXcpmExtraMsrs`设置不一致时可能导致引导失败，可尝试
+
+    - BIOS中打开超线程并将`config`的`AppleXcpmExtraMsrs`设置为`YES`
+    - BIOS中关闭超线程并将`config`的`AppleXcpmExtraMsrs`设置为`NO`
 
 
 ## 关闭触摸板快捷键
