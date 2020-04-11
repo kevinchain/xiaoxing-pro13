@@ -52,19 +52,19 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
   - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-fbmem` = `00009000`
   - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-stolenmem` = `00003001`
   
-- ### 已解锁BIOS`CFG LOOK`机器可删除以下内容
+- ### 已解锁BIOS`CFG LOCK`机器可删除以下内容
   
     - `Kernel` \ `Quirks` \ `AppleCpuPmCfgLock`=`NO`
     - `Kernel` \ `Quirks` \ `AppleXcpmCfgLock`=`YES`
     - `Kernel` \ `Quirks` \ `AppleXcpmForceBoost`=`NO`
     - `UEFI` \ `Quirks` \ `IgnoreInvalidFlexRatio`=`YES`
     
-  - ### 强烈建议解锁BIOS`CFG LOOK` `DVMT`以避免安装时卡住。解锁方法请参考附件`小新PRO13修改DVMT说明`
+  - ### 强烈建议解锁BIOS`CFG LOCK` `DVMT`以避免安装时卡住。解锁方法请参考附件`小新PRO13修改DVMT说明`
 
 
 ## 安装注意
 
- - ### 如果没有解锁BIOS`CFG LOOK` `DVMT`导致安装卡在请尝试解锁
+ - ### 如果没有解锁BIOS`CFG LOCK` `DVMT`导致安装卡在请尝试解锁
  
  - ### 安装系统时请在BIOS中禁用无线网卡，安装成功后在打开。避免应网卡问题导致安装失败
     - 一些网卡需要屏蔽针脚，方法请自行百度
