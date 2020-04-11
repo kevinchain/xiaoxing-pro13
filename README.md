@@ -52,7 +52,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
   - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-fbmem` = `00009000`
   - `PciRoot(0x0)/Pci(0x2,0x0)`\ `framebuffer-stolenmem` = `00003001`
   
-  - ### 已解锁BIOS`CFG LOOK`机器可删除以下内容
+- ### 已解锁BIOS`CFG LOOK`机器可删除以下内容
   
     - `Kernel` \ `Quirks` \ `AppleCpuPmCfgLock`=`NO`
     - `Kernel` \ `Quirks` \ `AppleXcpmCfgLock`=`YES`
