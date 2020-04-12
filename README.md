@@ -1,4 +1,4 @@
-# xiaoxing-pro13# XiaoXinPro-13-2019-hackintosh
+# Lenovo XiaoXinPro-13-2019-i7 10710U-hackintosh
 
 
 Lenovo XiaoXin Pro 13 2019 Hackintosh
@@ -116,7 +116,7 @@ Lenovo XiaoXin Pro 13 2019 Hackintosh
 
 ## 其它版本的EFI
  -
-    [XiaoXinPro-13-2019-hackintosh](https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh)
+    [Lenovo XiaoXin Pro 13 2019&2020 Hackintosh](https://github.com/daliansky/XiaoXinPro-13-2019-hackintosh)
 
 ## 更新日志  
   
